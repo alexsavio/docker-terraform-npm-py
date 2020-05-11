@@ -1,6 +1,5 @@
 # alexsavio/terraform-npm-py
 
-
 Docker image containing Terraform, Python and npm.
 
 ## Usage
